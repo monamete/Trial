@@ -1,4 +1,4 @@
 # Trial
 This is my first repository
 <br>
-Author - Monika Mete
+Author - Monika Mete(data scientist)
